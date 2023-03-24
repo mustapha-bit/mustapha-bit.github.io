@@ -1,0 +1,39 @@
+html {
+  background-color: #A9BDD9;
+}
+
+body {
+  width: 500px;
+  margin: auto;
+  border: 5px solid black;
+  padding: 0 15px 15px;
+}
+
+p, li {
+  color: red;
+  font-family: 'Anton', 'Oswald', 'Roboto';
+  font-size: 12px;
+  margin: auto;
+}
+p, h1 {
+  text-align: center;
+  color: red;
+}
+
+h1 {
+  padding: 5px 0;
+  text-shadow: 1px 1px 1px black;
+  margin: 0;
+}
+
+img {
+  width: 400px;
+  margin: auto;
+  display: block;
+}
+
+ul {
+  text-decoration: underline;
+}
+
+
